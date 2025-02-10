@@ -1,6 +1,4 @@
 ---@diagnostic disable: undefined-global
-vim.g.mapleader = ' ';
-vim.g.maplocalleader = ' ';
 
 vim.g.backspace = 2
 vim.g.showcmd = true;
@@ -18,5 +16,5 @@ vim.opt.expandtab = true;
 vim.opt.number = true;
 vim.opt.relativenumber = true;
 
-vim.keymap.set('n',  '<leader>h',  ':nohlsearch<CR>');
+-- vim.keymap.set('n',  '<leader>h',  ':nohlsearch<CR>');
 

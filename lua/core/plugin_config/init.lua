@@ -7,7 +7,7 @@ require("core.plugin_config.gitsigns");
 require("core.plugin_config.oil");
 require("core.plugin_config.minintro");
 require("core.plugin_config.nvterm");
-require("core.plugin_config.which-key");
+-- require("core.plugin_config.which-key");
 require("core.plugin_config.twilight");
 require("core.plugin_config.zen-mode");
 require("core.plugin_config.todo-comments");
